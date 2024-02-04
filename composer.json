@@ -1,5 +1,5 @@
 {
-    "name": "shaozeming/translate",
+    "name": "themismin/translate",
     "description": "一个集成百度翻译，有道翻译，Google 翻译的PHP composer package",
     "require": {
         "stichoza/google-translate-php": "^3.2"
